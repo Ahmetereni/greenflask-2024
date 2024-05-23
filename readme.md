@@ -1,6 +1,5 @@
 
 ```bash
-```bash
 .\auth\Scripts\activate.bat
 set FLASK_APP=project && flask run
 
